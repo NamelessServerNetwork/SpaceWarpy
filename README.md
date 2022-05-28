@@ -1,21 +1,21 @@
-# ProjectOC 3
-ProjectOC 3 is a Minecraft modpack with focus on OpenComputers.  
+# Warpy
+Warpy is a Minecraft modpack with focus on Warpdrive.  
 The pack is designed for our public server, but can be used standalone too.
 
 On our server you have the possibility to access your OC disks using an FTP connection. This way you can code directly on the server using your preferred editor/IDE.
 
-If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
+If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about Warpy in general as well as server events.
 
-MC server: poc3.bloodcoffeegames.com  
+MC server: poc3.namelessys.de  
 Discord server: https://discord.gg/v927kk7  
-Modpack (Technic Launcher): https://www.technicpack.net/modpack/projectoc-reboot.1745971
+Modpack (Technic Launcher): https://www.technicpack.net/modpack/warpy
 
 # Optifine
 We strongly recommend anyone to install optifine.
 Unfortunately we are not allowed to add it to our modpack.
 So you have to install it by yourself.
 
-Optifine: http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar  
+Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar  
 
 # The modpack:
 **OpenComputers with:**  
@@ -32,11 +32,8 @@ Optifine: http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar
 &emsp; Zettaindustries  
 
 **Some mods to round off the pack:**  
-&emsp; AdvancedRocketry  
 &emsp; Alchemistry  
-&emsp; AliensVsPredator  
 &emsp; AppliedEnergistics2  
-&emsp; ArchitectureCraft  
 &emsp; BetterFPS  
 &emsp; BiomesOPlenty  
 &emsp; ChestTransporter  
@@ -56,11 +53,12 @@ Optifine: http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar
 &emsp; FastLeafDecay  
 &emsp; FTBUtilities  
 &emsp; Gravestone  
+&emsp; Immersive Engineering  
 &emsp; IronChest  
 &emsp; IronJetpacks  
 &emsp; LazyAE2  
-&emsp; LittleTiles  
 &emsp; MalisisDoors  
+&emsp; Mekanism   
 &emsp; MmmMmmMmmMmm  
 &emsp; ModernLights  
 &emsp; Morpheus  
@@ -75,7 +73,6 @@ Optifine: http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar
 &emsp; ProjectRedIntegration  
 &emsp; ProjectRedLighting  
 &emsp; Railcraft  
-&emsp; RetroComputers  
 &emsp; RSGauges  
 &emsp; SimpleFluidTanks  
 &emsp; ThermalExpansion  
