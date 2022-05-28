@@ -1,0 +1,12 @@
+{
+  "config": {
+    "required_game_versions": [
+      "1.12.2"
+    ],
+    "excluded_game_versions": [
+      "fabric"
+    ],
+    "release_cycle": "RELEASE"
+  },
+  "mods": []
+}
