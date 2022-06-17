@@ -1,0 +1,1 @@
+On our server you have the possibility to access your OpenComputers disks using an SFTP connection. This way you can code directly on the server using your preferred editor/IDE.
