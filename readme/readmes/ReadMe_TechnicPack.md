@@ -4,7 +4,7 @@ The pack is designed for our public server, but can be used standalone too.
 
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about Warpy as well as server events.
 
-MC server: warpy.namelessys.de  
+MC server: warpy.namelessserver.net  
 Discord server: [https://discord.gg/v927kk7](https://discord.gg/v927kk7)  
 Modpack (GitHub): https://github.com/NamelessServers/Warpy
 
