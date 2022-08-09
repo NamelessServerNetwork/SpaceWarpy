@@ -4,6 +4,11 @@ furnace.addRecipe(<enderio:block_fused_glass>, <minecraft:glass>);
 mods.thermalexpansion.RedstoneFurnace.addRecipe(<enderio:block_fused_glass>, <minecraft:glass>, 2500);
 mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot:3>,<minecraft:redstone>,<appliedenergistics2:material:5>,10000);
 
+mods.thermalexpansion.Pulverizer.addRecipe(<immersiveengineering:material:17>, <immersiveengineering:material:6>, 3000);
+mods.thermalexpansion.Pulverizer.addRecipe(<immersiveengineering:material:17>, <railcraft:fuel_coke>, 3000);
+mods.thermalexpansion.Pulverizer.addRecipe(<immersiveengineering:material:17>, <thermalfoundation:material:802>, 3000);
+
+
 val binder = <enderio:item_material:4>;
 val rAlloy = <projectred-core:resource_item:103>;
 
@@ -23,3 +28,4 @@ recipes.addShaped("CT Industrial Blend",<enderio:item_material:51> * 6,
      [quartzDust,inkSac,quartzDust],
      [green,quartzDust,lapis]]
  );
+
